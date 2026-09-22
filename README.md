@@ -1,6 +1,6 @@
 ## Computational Methods
 
-Student notebooks and data for the UZH course in Computational Methods For Political Communication. 
+Student notebooks and data for the UZH course in Computational Methods to Study Political Communication. 
 
 Each week's folder holds the in-class coding notebook. Data folder contains all the datasets needs to run the notebooks.
 
