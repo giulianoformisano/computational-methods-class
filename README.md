@@ -5,7 +5,7 @@ This repository contains coding notebooks and data for the UZH course in Computa
 Each week's folder contains the corresponding coding notebook. The data folder contains all the datasets. The notebooks load their data directly, so there is nothing to download or upload.
 
 How to start? <br>
-1- Open a notebook in Google Colab. Put this in front of its GitHub path:
+1- Open a notebook in Google Colab by prefixing its GitHub URL with:
 colab.research.google.com/github/giulianoformisano/computational-methods-class/blob/
 (e.g. .../blob/main/01_Class1_Pandas_VoterData.ipynb)<br>
 2- Click File → Save a copy in Drive before you start. The version you open from here won’t be saved.
