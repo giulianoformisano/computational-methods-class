@@ -8,4 +8,4 @@ How to start? <br>
 1- Open a notebook in Google Colab by prefixing its GitHub URL with:
 colab.research.google.com/github/giulianoformisano/computational-methods-class/blob/
 (e.g. .../blob/main/01_Class1_Pandas_VoterData.ipynb)<br>
-2- Click File → Save a copy in Drive before you start. The version you open from here won’t be saved.
+2- Click "File" → "Save a copy in Drive" before you start. The version you open from here won’t be saved.
